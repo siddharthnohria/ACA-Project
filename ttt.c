@@ -1,3 +1,4 @@
+// Just run the code and input your moves as (row number, column number) in (1,3). 
 #include<stdio.h>
 #include<stdlib.h>
 void print(char **arr)
